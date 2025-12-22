@@ -1,0 +1,16 @@
+{
+  "title": "SDCoLab Governance",
+  "description": "How we run. How we decide. How we enable.",
+  "author": "SDCAP",
+  "language": "en",
+  "gitbook": ">=3.0.0",
+  "plugins": [
+    "-sharing",
+    "-search",
+    "-lunr"
+  ],
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
