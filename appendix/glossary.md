@@ -70,6 +70,32 @@
 
 ---
 
+## Workflow Terms (3S Framework)
+
+| Term | Definition |
+|------|------------|
+| **3S** | Sense → Stabilize → Strengthen — our work maturation pattern |
+| **Sense** | First stage: discover the real shape, gather signals, name the problem |
+| **Stabilize** | Second stage: bound scope, pick owners, reduce wobble |
+| **Strengthen** | Third stage: ship, document, automate, teach others |
+| **Fire Party** | A short, recurring working session for triage and momentum |
+| **Freeforall Todo** | A low-ceremony issue anyone can open to propose work |
+| **Next Touch** | The date when an issue should be revisited |
+| **Owner** | The person responsible for moving an issue forward |
+
+---
+
+## Growth Path Terms
+
+| Term | Definition |
+|------|------------|
+| **Project** | A bounded deliverable with a clear end point |
+| **Party** | A time-boxed collaboration session |
+| **Practice** | Ongoing maintenance, ritual, or stewardship |
+| **PROJECT → PARTY → PRACTICE** | Our growth philosophy: start small, prove it works, institutionalize what earns it |
+
+---
+
 ## Burning Man Terms
 
 | Term | Definition |

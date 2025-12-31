@@ -14,6 +14,13 @@
 * [CoLab Engagement](processes/colab-engagement.md)
 * [Technology Adoption](processes/technology-adoption.md)
 
+## Workflows
+
+* [Workflows Overview](workflows/README.md)
+* [Community Workflow](workflows/community-workflow.md)
+* [Fire Party](workflows/fire-party.md)
+* [GitHub Project Setup](workflows/github-project-setup.md)
+
 ## Templates
 
 * [Templates Overview](templates/README.md)

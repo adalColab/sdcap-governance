@@ -40,6 +40,22 @@ Start small. Prove it works. Institutionalize what earns it.
 
 ---
 
+## Work Maturation (3S)
+
+```
+SENSE → STABILIZE → STRENGTHEN
+```
+
+| Stage | Focus |
+|-------|-------|
+| **Sense** | Discover the real shape, gather signals |
+| **Stabilize** | Bound scope, pick owners, reduce wobble |
+| **Strengthen** | Ship, document, automate, teach others |
+
+Work moves forward through stages. If it wobbles, it moves back.
+
+---
+
 ## The "Yes... And!" Promise
 
 When we can't directly support something, we will:
@@ -66,6 +82,7 @@ We own our infrastructure. We control our narrative. We steward our data.
 
 - **Board Members**: Start with [Rules of Order](governance/rules-of-order.md) and [Async Decisions](governance/async-decisions.md)
 - **Community Members**: Start with [SDCAP Engagement](processes/sdcap-engagement.md)
+- **Day-to-Day Work**: See [Workflows](workflows/README.md) and [Fire Party](workflows/fire-party.md)
 - **Proposers**: Go directly to [Templates](templates/README.md)
 - **Everyone**: Read the [Transparency Guidelines](governance/transparency.md)
 
