@@ -6,7 +6,7 @@
 
 ## Philosophy
 
-We are a **501(c)(3) nonprofit** serving the San Diego Burning Man community. We exist to:
+We are a **501(c)(3) nonprofit** serving individuals, groups and communities in the San Diego, California region. We exist to:
 
 - **Enable** art and community, not own it
 - **Broker** resources and connections, not gatekeep them
