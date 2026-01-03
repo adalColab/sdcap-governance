@@ -1,4 +1,4 @@
-# 🔥 SDCoLab Governance
+# 🔥 SDCAP Governance
 
 **How we run. How we decide. How we enable.**
 
